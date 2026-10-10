@@ -14,10 +14,10 @@ text{font:15px 'Fira Code','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',mo
 <g class="f" style="animation-delay:0.40s"><text x="24" y="92" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
 <clipPath id="c0"><rect x="62" y="76" height="22" width="0"><animate attributeName="width" from="0" to="58.599999999999994" begin="0.70s" dur="0.36s" fill="freeze"/></rect></clipPath>
 <text x="62" y="92" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
-<g class="f" style="animation-delay:1.31s"><text x="24" y="114" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">name    </tspan><tspan fill="#e6edf3">Mohamed Amine Toumi</tspan></text></g>
-<g class="f" style="animation-delay:1.43s"><text x="24" y="136" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">class   </tspan><tspan fill="#e6edf3">Computer Science Student (B.Sc. Informatik)</tspan></text></g>
-<g class="f" style="animation-delay:1.55s"><text x="24" y="158" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">school  </tspan><tspan fill="#e6edf3">Hochschule Niederrhein, Krefeld, Germany</tspan></text></g>
-<g class="f" style="animation-delay:1.67s"><text x="24" y="180" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">year    </tspan><tspan fill="#e6edf3">5th semester</tspan></text></g>
+<g class="f" style="animation-delay:1.31s"><text x="24" y="114" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">name        </tspan><tspan fill="#e6edf3">Mohamed Amine Toumi</tspan></text></g>
+<g class="f" style="animation-delay:1.43s"><text x="24" y="136" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">class       </tspan><tspan fill="#e6edf3">Computer Science Student (B.Sc. Informatik)</tspan></text></g>
+<g class="f" style="animation-delay:1.55s"><text x="24" y="158" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">university  </tspan><tspan fill="#e6edf3">Hochschule Niederrhein, Krefeld, Germany</tspan></text></g>
+<g class="f" style="animation-delay:1.67s"><text x="24" y="180" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">year        </tspan><tspan fill="#e6edf3">5th semester</tspan></text></g>
 <g class="f" style="animation-delay:2.19s"><text x="24" y="210" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
 <g class="f" style="animation-delay:2.19s"><text x="24" y="232" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
 <clipPath id="c1"><rect x="62" y="216" height="22" width="0"><animate attributeName="width" from="0" to="140.5" begin="2.49s" dur="0.90s" fill="freeze"/></rect></clipPath>
