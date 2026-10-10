@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal-v4.svg" alt="Terminal: Mohamed Amine Toumi, Computer Science student (B.Sc. Informatik), Hochschule Niederrhein, Krefeld, 5th semester. Develops full-stack web applications from backend architecture and database design to frontend interfaces. Building a foundation in Cybersecurity for a Master's degree, with coursework in IT Security and Data Networks. Seeking an 11-week internship in the 6th semester combined with the Bachelor's thesis. Skills: C, C++, Python, JavaScript, SQL, React, Vite, Node.js, Express, Flask, SQLite, Docker, GitHub Actions, Git, Linux. Languages: German B2, English B2, French B2, Arabic native." width="100%" />
+<img src="./terminal-v5.svg" alt="Terminal: Mohamed Amine Toumi, Computer Science student (B.Sc. Informatik), Hochschule Niederrhein, Krefeld, 5th semester. Develops full-stack web applications from backend architecture and database design to frontend interfaces. Building a foundation in Cybersecurity for a Master's degree, with coursework in IT Security and Data Networks. Seeking an 11-week internship in the 6th semester combined with the Bachelor's thesis. Skills: C, C++, Python, JavaScript, SQL, React, Vite, Node.js, Express, Flask, SQLite, Docker, GitHub Actions, Git, Linux. Languages: German B2, English B2, French B2, Arabic native." width="100%" />
 
 <br/><br/>
 
