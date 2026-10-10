@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1336" viewBox="0 0 860 1336" xml:space="preserve" role="img" aria-label="Terminal intro of Mohamed Amine Toumi">
+<style>
+text{font:15px 'Fira Code','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace;white-space:pre}
+.f{opacity:0;animation:in .2s ease-out forwards}
+@keyframes in{to{opacity:1}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="860" height="1336" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="860" height="34" rx="10" fill="#161b22"/><rect y="24" width="860" height="10" fill="#161b22"/>
+<circle cx="22" cy="17" r="6" fill="#ff7b72"/><circle cx="42" cy="17" r="6" fill="#f2cc60"/><circle cx="62" cy="17" r="6" fill="#3fb950"/>
+<text x="430" y="22" fill="#7d8590" text-anchor="middle" style="font-size:13px">amine@hsnr: ~</text>
+<g class="f" style="animation-delay:0.40s"><text x="24" y="70" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:0.40s"><text x="24" y="92" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c0"><rect x="62" y="76" height="22" width="0"><animate attributeName="width" from="0" to="58.599999999999994" begin="0.70s" dur="0.36s" fill="freeze"/></rect></clipPath>
+<text x="62" y="92" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
+<g class="f" style="animation-delay:1.31s"><text x="24" y="114" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">name    </tspan><tspan fill="#e6edf3">Mohamed Amine Toumi</tspan></text></g>
+<g class="f" style="animation-delay:1.43s"><text x="24" y="136" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">class   </tspan><tspan fill="#e6edf3">Computer Science Student (B.Sc. Informatik)</tspan></text></g>
+<g class="f" style="animation-delay:1.55s"><text x="24" y="158" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">school  </tspan><tspan fill="#e6edf3">Hochschule Niederrhein, Krefeld, Germany</tspan></text></g>
+<g class="f" style="animation-delay:1.67s"><text x="24" y="180" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">year    </tspan><tspan fill="#e6edf3">5th semester</tspan></text></g>
+<g class="f" style="animation-delay:2.19s"><text x="24" y="210" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:2.19s"><text x="24" y="232" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c1"><rect x="62" y="216" height="22" width="0"><animate attributeName="width" from="0" to="140.5" begin="2.49s" dur="0.90s" fill="freeze"/></rect></clipPath>
+<text x="62" y="232" fill="#e6edf3" clip-path="url(#c1)">cat mission.txt</text>
+<g class="f" style="animation-delay:3.64s"><text x="24" y="254" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">I develop full-stack web applications from the ground up, managing everything</tspan></text></g>
+<g class="f" style="animation-delay:3.76s"><text x="24" y="276" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">from backend architecture and database design to frontend user interfaces.</tspan></text></g>
+<g class="f" style="animation-delay:3.88s"><text x="24" y="298" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
+<g class="f" style="animation-delay:4.00s"><text x="24" y="320" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">Alongside my software engineering work, I am actively building a foundation to</tspan></text></g>
+<g class="f" style="animation-delay:4.12s"><text x="24" y="342" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">specialize in </tspan><tspan fill="#00ff9c">Cybersecurity</tspan><tspan fill="#e6edf3"> for my Master&#x27;s degree,</tspan></text></g>
+<g class="f" style="animation-delay:4.24s"><text x="24" y="364" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">supported by solid university coursework in IT Security and Data Networks.</tspan></text></g>
+<g class="f" style="animation-delay:4.36s"><text x="24" y="386" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
+<g class="f" style="animation-delay:4.48s"><text x="24" y="408" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">I am currently seeking an </tspan><tspan fill="#00ff9c">11-week internship</tspan><tspan fill="#e6edf3"> for my 6th semester, combined with</tspan></text></g>
+<g class="f" style="animation-delay:4.60s"><text x="24" y="430" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3">my </tspan><tspan fill="#00ff9c">Bachelor&#x27;s thesis</tspan><tspan fill="#e6edf3">.</tspan></text></g>
+<g class="f" style="animation-delay:5.12s"><text x="24" y="460" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:5.12s"><text x="24" y="482" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c2"><rect x="62" y="466" height="22" width="0"><animate attributeName="width" from="0" to="122.3" begin="5.42s" dur="0.78s" fill="freeze"/></rect></clipPath>
+<text x="62" y="482" fill="#e6edf3" clip-path="url(#c2)">ls ~/skills/*</text>
+<g class="f" style="animation-delay:6.45s"><text x="24" y="504" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">lang/   </tspan><tspan fill="#e6edf3">C  C++  Python  JavaScript  SQL</tspan></text></g>
+<g class="f" style="animation-delay:6.57s"><text x="24" y="526" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">web/    </tspan><tspan fill="#e6edf3">React  Vite  Node.js  Express  Flask  HTML  CSS</tspan></text></g>
+<g class="f" style="animation-delay:6.69s"><text x="24" y="548" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">data/   </tspan><tspan fill="#e6edf3">SQL  SQLite</tspan></text></g>
+<g class="f" style="animation-delay:6.81s"><text x="24" y="570" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">ops/    </tspan><tspan fill="#e6edf3">Git  GitHub Actions  Docker  Linux</tspan></text></g>
+<g class="f" style="animation-delay:7.33s"><text x="24" y="600" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:7.33s"><text x="24" y="622" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c3"><rect x="62" y="606" height="22" width="0"><animate attributeName="width" from="0" to="149.6" begin="7.63s" dur="0.96s" fill="freeze"/></rect></clipPath>
+<text x="62" y="622" fill="#e6edf3" clip-path="url(#c3)">ls -l ~/projects</text>
+<g class="f" style="animation-delay:8.84s"><text x="24" y="644" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">drwx  </tspan><tspan fill="#00ff9c">cafe-el-sasu/  </tspan><tspan fill="#e6edf3">Online preorder &amp; management app for a real cafe</tspan></text></g>
+<g class="f" style="animation-delay:8.96s"><text x="24" y="666" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">      </tspan><tspan fill="#58a6ff">stack </tspan><tspan fill="#7d8590">Node.js 22 | Express | SQLite | Vanilla JS | CI tests</tspan></text></g>
+<g class="f" style="animation-delay:9.08s"><text x="24" y="688" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Preorders with 15-min pickup slots, kitchen capacity, live status</tspan></text></g>
+<g class="f" style="animation-delay:9.20s"><text x="24" y="710" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Loyalty tiers Bronze/Silver/Gold + QR member card</tspan></text></g>
+<g class="f" style="animation-delay:9.32s"><text x="24" y="732" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Staff kitchen display, owner finance dashboard (revenue, VAT)</tspan></text></g>
+<g class="f" style="animation-delay:9.44s"><text x="24" y="754" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Security: scrypt hashing, CSRF, strict CSP, login throttling</tspan></text></g>
+<g class="f" style="animation-delay:9.56s"><text x="24" y="776" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
+<g class="f" style="animation-delay:9.68s"><text x="24" y="798" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">drwx  </tspan><tspan fill="#00ff9c">fit-aktiv/     </tspan><tspan fill="#e6edf3">Booking &amp; back-office platform for a 22-gym chain</tspan></text></g>
+<g class="f" style="animation-delay:9.80s"><text x="24" y="820" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">      </tspan><tspan fill="#58a6ff">stack </tspan><tspan fill="#7d8590">React 19 | Vite | Python/Flask | SQLite | Docker | CI tests</tspan></text></g>
+<g class="f" style="animation-delay:9.92s"><text x="24" y="842" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">4 roles: visitors, members, trainers, admins</tspan></text></g>
+<g class="f" style="animation-delay:10.04s"><text x="24" y="864" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Booking rules, waiting list with auto-promotion, .ics export</tspan></text></g>
+<g class="f" style="animation-delay:10.16s"><text x="24" y="886" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Automatic trainer replacement when a trainer reports sick</tspan></text></g>
+<g class="f" style="animation-delay:10.28s"><text x="24" y="908" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">QR check-in, studio map; demo DB with 25k members</tspan></text></g>
+<g class="f" style="animation-delay:10.40s"><text x="24" y="930" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
+<g class="f" style="animation-delay:10.52s"><text x="24" y="952" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">drwx  </tspan><tspan fill="#00ff9c">intruder-alarm/ </tspan><tspan fill="#e6edf3">Real-time webcam motion alarm with detection zone</tspan></text></g>
+<g class="f" style="animation-delay:10.64s"><text x="24" y="974" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">      </tspan><tspan fill="#58a6ff">stack </tspan><tspan fill="#7d8590">C++17 | OpenCV | CMake | unit tests</tspan></text></g>
+<g class="f" style="animation-delay:10.76s"><text x="24" y="996" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Drag a zone; motion inside triggers banner, box, bell, snapshot</tspan></text></g>
+<g class="f" style="animation-delay:10.88s"><text x="24" y="1018" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Background model, histogram, Otsu threshold from scratch</tspan></text></g>
+<g class="f" style="animation-delay:11.00s"><text x="24" y="1040" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Otsu verified against OpenCV; 5-frame debounce against noise</tspan></text></g>
+<g class="f" style="animation-delay:11.12s"><text x="24" y="1062" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
+<g class="f" style="animation-delay:11.24s"><text x="24" y="1084" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">....  </tspan><tspan fill="#e6edf3">data-science/  microcontroller/  </tspan><tspan fill="#f2cc60">[uploading..]</tspan></text></g>
+<g class="f" style="animation-delay:11.76s"><text x="24" y="1114" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:11.76s"><text x="24" y="1136" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c4"><rect x="62" y="1120" height="22" width="0"><animate attributeName="width" from="0" to="167.79999999999998" begin="12.06s" dur="1.08s" fill="freeze"/></rect></clipPath>
+<text x="62" y="1136" fill="#e6edf3" clip-path="url(#c4)">cat languages.conf</text>
+<g class="f" style="animation-delay:13.39s"><text x="24" y="1158" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">german</tspan><tspan fill="#e6edf3">=B2  </tspan><tspan fill="#58a6ff">english</tspan><tspan fill="#e6edf3">=B2  </tspan><tspan fill="#58a6ff">french</tspan><tspan fill="#e6edf3">=B2  </tspan><tspan fill="#58a6ff">arabic</tspan><tspan fill="#e6edf3">=native</tspan></text></g>
+<g class="f" style="animation-delay:13.91s"><text x="24" y="1188" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:13.91s"><text x="24" y="1210" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c5"><rect x="62" y="1194" height="22" width="0"><animate attributeName="width" from="0" to="149.6" begin="14.21s" dur="0.96s" fill="freeze"/></rect></clipPath>
+<text x="62" y="1210" fill="#e6edf3" clip-path="url(#c5)">./status --check</text>
+<g class="f" style="animation-delay:15.42s"><text x="24" y="1232" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">[ OK ] </tspan><tspan fill="#e6edf3">Open to an 11-week internship + Bachelor thesis</tspan></text></g>
+<g class="f" style="animation-delay:15.54s"><text x="24" y="1254" ><tspan fill="#e6edf3">  </tspan><tspan fill="#f2cc60">[MAIL] </tspan><tspan fill="#e6edf3">toumiamine12e@gmail.com</tspan></text></g>
+<g class="f" style="animation-delay:16.06s"><text x="24" y="1284" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:16.06s"><text x="24" y="1306" ><tspan fill="#00ff9c">└─$ </tspan></text><rect class="cur" x="62" y="1291" width="9" height="18" fill="#00ff9c"/></g>
+</svg>
