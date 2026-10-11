@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1336" viewBox="0 0 860 1336" xml:space="preserve" role="img" aria-label="Terminal intro of Mohamed Amine Toumi">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1468" viewBox="0 0 860 1468" xml:space="preserve" role="img" aria-label="Terminal intro of Mohamed Amine Toumi">
 <style>
 text{font:15px 'Fira Code','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace;white-space:pre}
 .f{opacity:0;animation:in .2s ease-out forwards}
@@ -6,7 +6,7 @@ text{font:15px 'Fira Code','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',mo
 .cur{animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 </style>
-<rect width="860" height="1336" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="860" height="1468" rx="10" fill="#0d1117" stroke="#30363d"/>
 <rect width="860" height="34" rx="10" fill="#161b22"/><rect y="24" width="860" height="10" fill="#161b22"/>
 <circle cx="22" cy="17" r="6" fill="#ff7b72"/><circle cx="42" cy="17" r="6" fill="#f2cc60"/><circle cx="62" cy="17" r="6" fill="#3fb950"/>
 <text x="430" y="22" fill="#7d8590" text-anchor="middle" style="font-size:13px">amine@hsnr: ~</text>
@@ -63,18 +63,24 @@ text{font:15px 'Fira Code','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',mo
 <g class="f" style="animation-delay:10.88s"><text x="24" y="1018" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Background model, histogram, Otsu threshold from scratch</tspan></text></g>
 <g class="f" style="animation-delay:11.00s"><text x="24" y="1040" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Otsu verified against OpenCV; 5-frame debounce against noise</tspan></text></g>
 <g class="f" style="animation-delay:11.12s"><text x="24" y="1062" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
-<g class="f" style="animation-delay:11.24s"><text x="24" y="1084" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">....  </tspan><tspan fill="#e6edf3">data-science/  microcontroller/  </tspan><tspan fill="#f2cc60">[uploading..]</tspan></text></g>
-<g class="f" style="animation-delay:11.76s"><text x="24" y="1114" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
-<g class="f" style="animation-delay:11.76s"><text x="24" y="1136" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
-<clipPath id="c4"><rect x="62" y="1120" height="22" width="0"><animate attributeName="width" from="0" to="167.79999999999998" begin="12.06s" dur="1.08s" fill="freeze"/></rect></clipPath>
-<text x="62" y="1136" fill="#e6edf3" clip-path="url(#c4)">cat languages.conf</text>
-<g class="f" style="animation-delay:13.39s"><text x="24" y="1158" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">German</tspan><tspan fill="#e6edf3">=B2  </tspan><tspan fill="#58a6ff">English</tspan><tspan fill="#e6edf3">=C1  </tspan><tspan fill="#58a6ff">French</tspan><tspan fill="#e6edf3">=C1  </tspan><tspan fill="#58a6ff">Arabic</tspan><tspan fill="#e6edf3">=native</tspan></text></g>
-<g class="f" style="animation-delay:13.91s"><text x="24" y="1188" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
-<g class="f" style="animation-delay:13.91s"><text x="24" y="1210" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
-<clipPath id="c5"><rect x="62" y="1194" height="22" width="0"><animate attributeName="width" from="0" to="149.6" begin="14.21s" dur="0.96s" fill="freeze"/></rect></clipPath>
-<text x="62" y="1210" fill="#e6edf3" clip-path="url(#c5)">./status --check</text>
-<g class="f" style="animation-delay:15.42s"><text x="24" y="1232" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">[ OK ] </tspan><tspan fill="#e6edf3">Open to an 11-week internship + Bachelor thesis</tspan></text></g>
-<g class="f" style="animation-delay:15.54s"><text x="24" y="1254" ><tspan fill="#e6edf3">  </tspan><tspan fill="#f2cc60">[MAIL] </tspan><tspan fill="#e6edf3">toumiamine12e@gmail.com</tspan></text></g>
-<g class="f" style="animation-delay:16.06s"><text x="24" y="1284" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
-<g class="f" style="animation-delay:16.06s"><text x="24" y="1306" ><tspan fill="#00ff9c">└─$ </tspan></text><rect class="cur" x="62" y="1291" width="9" height="18" fill="#00ff9c"/></g>
+<g class="f" style="animation-delay:11.24s"><text x="24" y="1084" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">drwx  </tspan><tspan fill="#00ff9c">drowsiness-alert/ </tspan><tspan fill="#e6edf3">Eye-closure alarm, desktop + phone web app</tspan></text></g>
+<g class="f" style="animation-delay:11.36s"><text x="24" y="1106" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">      </tspan><tspan fill="#58a6ff">Stack </tspan><tspan fill="#7d8590">C++17 | OpenCV | OpenCV.js | CMake | unit tests</tspan></text></g>
+<g class="f" style="animation-delay:11.48s"><text x="24" y="1128" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Eyes closed too long: red WAKE UP! screen + beep</tspan></text></g>
+<g class="f" style="animation-delay:11.60s"><text x="24" y="1150" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Haar cascades, histogram eq., thresholding, temporal filter</tspan></text></g>
+<g class="f" style="animation-delay:11.72s"><text x="24" y="1172" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">      &gt; </tspan><tspan fill="#e6edf3">Calibrates to any eye color, lighting or glasses</tspan></text></g>
+<g class="f" style="animation-delay:11.84s"><text x="24" y="1194" ><tspan fill="#e6edf3">  </tspan><tspan fill="#e6edf3"></tspan></text></g>
+<g class="f" style="animation-delay:11.96s"><text x="24" y="1216" ><tspan fill="#e6edf3">  </tspan><tspan fill="#7d8590">....  </tspan><tspan fill="#e6edf3">data-science/  microcontroller/  </tspan><tspan fill="#f2cc60">[uploading..]</tspan></text></g>
+<g class="f" style="animation-delay:12.48s"><text x="24" y="1246" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:12.48s"><text x="24" y="1268" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c4"><rect x="62" y="1252" height="22" width="0"><animate attributeName="width" from="0" to="167.79999999999998" begin="12.78s" dur="1.08s" fill="freeze"/></rect></clipPath>
+<text x="62" y="1268" fill="#e6edf3" clip-path="url(#c4)">cat languages.conf</text>
+<g class="f" style="animation-delay:14.11s"><text x="24" y="1290" ><tspan fill="#e6edf3">  </tspan><tspan fill="#58a6ff">German</tspan><tspan fill="#e6edf3">=B2  </tspan><tspan fill="#58a6ff">English</tspan><tspan fill="#e6edf3">=C1  </tspan><tspan fill="#58a6ff">French</tspan><tspan fill="#e6edf3">=C1  </tspan><tspan fill="#58a6ff">Arabic</tspan><tspan fill="#e6edf3">=native</tspan></text></g>
+<g class="f" style="animation-delay:14.63s"><text x="24" y="1320" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:14.63s"><text x="24" y="1342" ><tspan fill="#00ff9c">└─$ </tspan></text></g>
+<clipPath id="c5"><rect x="62" y="1326" height="22" width="0"><animate attributeName="width" from="0" to="149.6" begin="14.93s" dur="0.96s" fill="freeze"/></rect></clipPath>
+<text x="62" y="1342" fill="#e6edf3" clip-path="url(#c5)">./status --check</text>
+<g class="f" style="animation-delay:16.14s"><text x="24" y="1364" ><tspan fill="#e6edf3">  </tspan><tspan fill="#00ff9c">[ OK ] </tspan><tspan fill="#e6edf3">Open to an 11-week internship + Bachelor thesis</tspan></text></g>
+<g class="f" style="animation-delay:16.26s"><text x="24" y="1386" ><tspan fill="#e6edf3">  </tspan><tspan fill="#f2cc60">[MAIL] </tspan><tspan fill="#e6edf3">toumiamine12e@gmail.com</tspan></text></g>
+<g class="f" style="animation-delay:16.78s"><text x="24" y="1416" ><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#58a6ff">amine@hsnr</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#e6edf3">~</tspan><tspan fill="#00ff9c">]</tspan></text></g>
+<g class="f" style="animation-delay:16.78s"><text x="24" y="1438" ><tspan fill="#00ff9c">└─$ </tspan></text><rect class="cur" x="62" y="1423" width="9" height="18" fill="#00ff9c"/></g>
 </svg>
